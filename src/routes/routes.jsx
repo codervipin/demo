@@ -4,7 +4,7 @@ import Register from "../components/Register";
 
 const routes = createBrowserRouter([
   {
-    path: "/login",
+    path: "/",
     element: <Login />,
   },
   {

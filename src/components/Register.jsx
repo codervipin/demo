@@ -139,7 +139,7 @@ const Register = () => {
 
         <p className="mt-2 my-4 ">
           Already registered?{" "}
-          <Link to="/login" style={{ textDecoration: "none" }}>
+          <Link to="/" style={{ textDecoration: "none" }}>
             Login Here
           </Link>
         </p>
